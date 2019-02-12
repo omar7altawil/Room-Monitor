@@ -1,0 +1,211 @@
+{
+  "project_info": {
+    "project_number": "275376927231",
+    "firebase_url": "https://room-monitoring-c5da7.firebaseio.com",
+    "project_id": "room-monitoring-c5da7",
+    "storage_bucket": "room-monitoring-c5da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275376927231:android:74b57c14a4d9c46b",
+        "android_client_info": {
+          "package_name": "com.example.gamer.easy_shit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275376927231-83h4dgj0p53e1rpr5d1vl0ed8tsto69j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamer.easy_shit",
+            "certificate_hash": "1fc3594c5a9fee529222c4a84b94405e1a8b542c"
+          }
+        },
+        {
+          "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCqQfvC6NcncpBUelcXg4MFTjwWKsp7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275376927231:android:8567639239b5e788",
+        "android_client_info": {
+          "package_name": "com.example.gamer.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275376927231-a11k6cgfbki83kjeqmqsj2s42koofj16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamer.myapplication",
+            "certificate_hash": "ab962f941b8a0480fd68a02c304b6847fb5b55d1"
+          }
+        },
+        {
+          "client_id": "275376927231-s3t2cmc2506qc3fuq9vae6hb58gd6qkt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamer.myapplication",
+            "certificate_hash": "1fc3594c5a9fee529222c4a84b94405e1a8b542c"
+          }
+        },
+        {
+          "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCqQfvC6NcncpBUelcXg4MFTjwWKsp7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275376927231:android:e5f6f1ea2167dc2e",
+        "android_client_info": {
+          "package_name": "com.example.mypc.howmanypeopleintheroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275376927231-4frlsgfe3ugnj5e2qo5l6miqhbvsu27h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mypc.howmanypeopleintheroom",
+            "certificate_hash": "8df4f4fac998365d26792ca5016c57a4903495e9"
+          }
+        },
+        {
+          "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCqQfvC6NcncpBUelcXg4MFTjwWKsp7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275376927231:android:40005244085e8e93",
+        "android_client_info": {
+          "package_name": "com.proj.henriquecursino.easy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275376927231-0cr4fvntfp60b4d5k0i6u3mauquj5eji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proj.henriquecursino.easy",
+            "certificate_hash": "32cb97ed7beaee08146a38461383cd38f5f5a19b"
+          }
+        },
+        {
+          "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnCqQfvC6NcncpBUelcXg4MFTjwWKsp7Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275376927231-70nqtudp4sdshhcpqkn6mgaek56mlvfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
